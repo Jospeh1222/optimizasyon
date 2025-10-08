@@ -138,9 +138,3 @@ Kodu anlatan video:
 **Yusuf Başar Gündüz**  
 📧 basar.gunduz@std.yildiz.edu.tr  
 🎓 Yıldız Teknik Üniversitesi - Bilgisayar Mühendisliği
-
----
-
-## 📄 Lisans
-
-Bu proje MIT Lisansı altında yayınlanmıştır. Detaylar için `LICENSE` dosyasına bakınız.
